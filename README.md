@@ -34,8 +34,16 @@ The analysis above shows us the gender breakdown highlighting that the majority 
 
 <img width="370" alt="UserType_Vis" src="https://user-images.githubusercontent.com/95591222/161309024-ea65be76-6cb0-489d-afb7-05702fb3e947.png">
 
-The above graph is broken down by customer, subscriber and gender. This support our time theory and gender theory. It also gives us more insight into the most polular day of the weeks. From the data we can see that Sunday and Wednesdays are the least popular days and that Thursday and Friday are the most popular. It also highlights that subscribers use the bikes more often. 
+The above graph is broken down by customer, subscriber and gender. This support our time theory and gender theory. It also gives us more insight into the most polular day of the weeks. From the data we can see that Sunday and Wednesdays are the least popular days and that Thursday and Friday are the most popular. It also highlights that subscribers use the bikes more often. The analytics below show these trends.
+
+<img width="104" alt="User Type" src="https://user-images.githubusercontent.com/95591222/161314432-bccd2417-9cc6-49c1-9459-5013dc82a2c0.png">
+<img width="551" alt="image" src="https://user-images.githubusercontent.com/95591222/161315945-e427143f-288f-466d-812c-c927e56744ed.png">
+
 
 ## Summary
 
-I suggest two more visualizations showing an interactive map highlighting which pick up and drop off area is used the most and what is the average age of the people that are using the service. 
+In conclusion, the majority of citibike users are male, and have more subscriber users than customer users. The peak days of operation are Thursdays and Fridays and most common times are 7-9 in the morning and 4-7 in the evening. 
+
+I suggest two more visualizations showing an interactive map highlighting which pick up and drop off area is used the most. The shop may be able to cut down repair cost by having stations close to those areas. Another visualization to have could be the average age of the people using the service. This could help marketing cater to those people more effectively.
+
+<img width="542" alt="dashboard" src="https://user-images.githubusercontent.com/95591222/161313820-4ee35590-41df-4bd8-bd14-728e415086d6.png">
