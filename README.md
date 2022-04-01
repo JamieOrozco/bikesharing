@@ -34,7 +34,7 @@ The analysis above shows us the gender breakdown highlighting that the majority 
 
 <img width="370" alt="UserType_Vis" src="https://user-images.githubusercontent.com/95591222/161309024-ea65be76-6cb0-489d-afb7-05702fb3e947.png">
 
-The above graph is broken down by customer, subscriber and gender. This support our time theory and gender theory. It also gives us more insight into the most polular day of the weeks. From the data we can see that Sunday and Wednesdays are the least popular days and that Thursday and Friday are the most popular. It also highlights that subscribers use the biles more often. 
+The above graph is broken down by customer, subscriber and gender. This support our time theory and gender theory. It also gives us more insight into the most polular day of the weeks. From the data we can see that Sunday and Wednesdays are the least popular days and that Thursday and Friday are the most popular. It also highlights that subscribers use the bikes more often. 
 
 ## Summary
 
